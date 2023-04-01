@@ -14,5 +14,4 @@ If we list all the natuural numbers below 10 that are multipels of 3 and 5 we ge
 #### Solution
 Apart from the typical brute force for loop, we can think of something a bit more sophisticated. There is a formula for O(1) computation of the amount of numbers below N that are multiples of a number X.
 
-
-
+SUM_OF_NUMBER_X : X * (N DIV X) * ((N DIV X) + 1) DIV 2
