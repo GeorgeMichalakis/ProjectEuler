@@ -12,7 +12,7 @@ The motivation for starting Project Euler, and its continuation, is to provide a
 If we list all the natuural numbers below 10 that are multipels of 3 and 5 we get 3,5,6 and 9. The sum of these multiples is 23. Find the sum of all the multiples of 3 or 5 below N.
 
 #### Solution
-Apart from the typical brute force for loop, we can think of something a bit more sophisticated.
+Apart from the typical brute force for loop, we can think of something a bit more sophisticated. There is a formula for O(1) computation of the amount of numbers below N that are multiples of a number X.
 
 
 
